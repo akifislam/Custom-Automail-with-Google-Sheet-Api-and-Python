@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cci-team-automail",
+  "private_key_id": "e5d5b64ed21h221h49d5cd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBK21h12h12hYwggSiAgEAAoIBAQDLSfh8/10gpWTc\nrR5h/2ciZdxG9ETLvl+5waPXWxXu8V7/cSqWlQ7vgzEZ+6CvgGjGGCbfv0U4G+et\n4mU7MmfEcS2AYS37jFSNQkAiptjap+PiCb4CmL+epBdcNJjx53TM+PUyz9FN2Nv0\nJYEQXYCTFtVhh/ZIEOHJg2k1b/K6zke967vlXpqRsoOeK/bE5o+hAiV5t9VKTzdp\n85AXA19UaBfKGMwGW8UzVJJDFfIHiSFzpjJpizLcWOqtpl4WxsUkC4c+FPJO8jGh\n66qhAHs3dPZyCs6hQWrof6py2WoR6YKKN4u1KvqemKkXzwPunuWXJbPbkLyouR/6\n2BftHqqDAgMBAAECggEAAXXtC8/8kqV6Bn6OKf9tWSsI3Jb8RqthgZYtCodPA+y4\ngATrB2tJbUwGBL0bqcq2LuYxhqUl2J547pHNMqBbM2c/cY8kv+G6dyFeEJqQEvzK\nRpoq34+uS3P0ma4dSlM53Lq4wvclhL0B7rBDoVwHEusJ+JE02yOz6dWkGzbae2dW\n9cFZmgwx5KlrYSrXxBcN1lt2AYQp6lTpQ2u5tk5CcQpGtlp/e/0HPVxQe5EAcfVH\nmDZiNT+sQlEBuCvIPLZvhOcYYNU1VKgCRoynmw81dcIxaZPM+mLzGdi6CYjA2uRx\nVC2HoF5Ff3/6YiztlBbg4WcffqfDh/toa8FzkCCcoQKBgQD6WkTSFv6SnZZs/z5t\nHF/7FsjuFelMorRGKJAhJNmLMNDZhU7M0axBJxRGELrLRQNCQTDc5Ix2OvNCcOZF\nh/yS9mTMEAKe8gchvl4kBsPzejNhwdptitNNyh5obQi/nD1ua3EZg6cUhxmUm6QN\nRPdnqlry/5tpnYuR9/mWgrRWGwKBgQDP3+tmkdaUWrCqDfQogHQisWKy7qXjPFu8\/Uv\n1532h23hHpVxsGTqkVekBjCiWK/KV1d6xU4D9ZP+TgTu2PmBVP9jMSI04MFpdIaN2LPQu/\n/6046oBjuQKBgEupwoj4WCI5rH/uuJBDdiKt5TZHuwXlWrSlh8HsoC74JvbG2mT+\nrZ/XTsJKRhovFmgMydbI4EbPVDvtYTr8eXJ1M0uVPyWIom0pWsxqmwhYE3VlID3h\nKjGld4E6Ct3WO57GrBz49CM5HZsTWwaDpH5ZNzmf1PmbmtYX6v/5KsWnAoGAIQ90\nydhR70BJLpKPjU14qvfZQanw2iYEVQROMHq5qQhUpom1/6O4PklYpRJ/3yXbg1tR\nq6oeda+ONeG18kO+oWDMUIGYNQdSsGwxeZHv613hSFgsG1RGykcKLZd94fXUPWaL\nCR2kbJz8br4yOyVASW3iW5LKAVYRI1UPgKjTCIkCgYALODAf1aChaCYmFo9VbaeK\n+MeU2AyyexNKQAOpFhi5kEtAXC/74psIlV+4j5yD+Vnfc8uwr53spo4+WHocUTEQ\norI1Vgx+D6LPLpj96Dq33jrraMLqM7jC8n6Ya6Pbv6vcBKNFg9hBYHws1ehVIxEq\nhoJ/GJZS5VYRCaVNQD78JQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "abc@cci-team-automail.iam.gserviceaccount.com",
+  "client_id": "11040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x529/akif-automail-cci-team%40cci-team-automail.iam.gserviceaccount.com"
+}

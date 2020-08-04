@@ -1,0 +1,29 @@
+If it collects these data,
+
+User Name = John 
+Task Name : Story 11 - ABC
+Instruction's Google Doc Link : "Google Doc - 1" (Suppose)
+Task Link : Task -11
+Deadline : August 6, 2020
+
+  
+then it will send email like this : 
+
+Dear John,
+You are assigned to make a Google Slide on a story named "Story 11 - ABC" Please read the following document for instruction for details.
+
+Instructions about making Google Slide :
+Google Doc - 1
+
+
+Your Task (Story 11 - ABC) :
+Task - 11 
+
+
+Deadline : August 6, 2020
+
+
+Thanks & Regards
+Akif Islam
+Young Executive
+Tinkers Technologies Ltd
